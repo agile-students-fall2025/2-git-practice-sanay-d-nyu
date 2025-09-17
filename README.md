@@ -9,3 +9,9 @@ getting better and better at writing code. This article, however, shows a glarin
 get them fired or at least put on a PIP of sorts. This kind of mistake gives me some hope that there is still demand for actual, human developers. While yes, LLM's
 and agents are cool, very useful tools, the finesse and critical thinking that comes from a well developed programmer's brain can't be matched. I love this article 
 because it shows that there is, and always will be, a need for human developers.
+
+---
+
+### Comments : 
+
+Kazi Hossain : This was a fun article to read! I also wrote about a similar article in my github practice, where most "vibe coding" tools right now are creating massive security flaws inside code bases. This article was pure comedy of how trusting the AI hype right now can cause thousands in losses. I agree with your point that LLM tools are very cool and should be used but with cautions. It is a double edged sword and should not be fully trusted to run with full autonomy. 
